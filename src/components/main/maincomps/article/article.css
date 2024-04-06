@@ -1,0 +1,6 @@
+.article{
+    grid-area: article;
+    width: 60vw;
+    border-left: grey solid 0.5px;
+    border-right: grey solid 0.5px;
+}
