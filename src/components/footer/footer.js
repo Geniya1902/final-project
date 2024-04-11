@@ -2,7 +2,7 @@ import "./footer.css"
 export default function Footer(){
     return(
         <div className="footer">
-            <p>Сайт создан в 2024г. &copy; Топиян Евгения Игоревна</p>
+            <p>Сайт создан 10.04.2024г.</p>
         </div>
     )
 }

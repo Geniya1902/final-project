@@ -1,7 +1,6 @@
 .index{
-    border:2px solid #000;
     display: flex;
     flex-flow: column nowrap;
-    width: 100vw;
-    height: 100vh;
+    background-image: url("https://img.freepik.com/premium-photo/canvas-backdrop-canvas-texture-pastel-paint-stains-pink-light-blue-colours-ai-generative-background_651171-1721.jpg?w=996");
+    image-resolution: initial;
 }

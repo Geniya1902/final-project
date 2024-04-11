@@ -1,3 +1,4 @@
+import Carta from "../../../media/karta.png"
 export default function Contacts() {
     return (
         <div className="contacts">
@@ -32,7 +33,7 @@ export default function Contacts() {
             <p>Мы в любое время готовы ответить на все интересующие Вас вопросы.</p>
             <br />
             <p>Мы принимаем по адресу: г.Ростов-на-Дону, пл.Толстого д.8 каб.230, 344037</p>
-            <img src="../../../media/karta.png" />
+            <img src={Carta} alt="Адрес офиса" />
 
         </div>
     );

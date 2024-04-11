@@ -11,6 +11,5 @@ root.render(
         <BrowserRouter>
             <App />
         </BrowserRouter>
-        <img src="https://img.freepik.com/premium-photo/canvas-backdrop-canvas-texture-pastel-paint-stains-pink-light-blue-colours-ai-generative-background_651171-1721.jpg?w=996" />
     </div>
 );

@@ -9,6 +9,8 @@ export function Section(){
             <br />
             <Link to='/news'>Новости</Link>
             <br />
+            <Link to='/note'>Запись</Link>
+            <br />
             <Link to='/contacts'>Контакты</Link>
             <br />
             <Link to='/reviews'>Отзывы клиентов</Link>
