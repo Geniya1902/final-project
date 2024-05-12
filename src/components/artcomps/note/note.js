@@ -1,5 +1,29 @@
+import './note.css'
+import './button'
+import We from '../../../media/we.jpg'
 export default function Note() {
     return (
-        <div className="note">Запись</div>
-    );
+        <div className="container">
+            <img src={We} className="we" alt="Это мы" width="720px" height="470px"/>
+            <div className="row">
+                <div className="column">
+                    <div className="card">
+                        <h2 className="zagolovok">Елена Мозговая</h2>
+                        <p>
+                            <button className="button" onClick="func1()">Записаться на консультацию</button>
+                        </p>
+                    </div>
+                </div>
+                <div className="column">
+                    <div className="card">
+                        <h2 className="zagolovok">Владислав Гомон</h2>
+                        <p>
+                            <button className="button" onClick="func2()">Записаться на прием</button>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+)
+    ;
 }

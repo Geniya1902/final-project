@@ -22,12 +22,12 @@ export default function Contacts() {
                 <tr>
                     <td>E-mail</td>
                     <td>allegretta0207@gmail.com</td>
-                    <td></td>
+                    <td>meynkune@yandex.ru</td>
                 </tr>
                 <tr>
                     <td>Другие варианты связи</td>
-                    <td>https://taplink.cc/elenamozgovaya</td>
-                    <td></td>
+                    <td>https://taplink.cc/elenamozgovaya/</td>
+                    <td>https://gomanvlad.taplink.ws/</td>
                 </tr>
             </table>
             <p>Мы в любое время готовы ответить на все интересующие Вас вопросы.</p>
