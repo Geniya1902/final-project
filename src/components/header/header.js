@@ -9,6 +9,7 @@ export default function Header(){
                  width="100px"
                  height="100px"
             />
+            <p className="head">Жизнь в кайф: наслаждайся каждым моментом!</p>
         </div>
     )
 }

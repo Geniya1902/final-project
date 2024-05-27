@@ -1,4 +1,5 @@
 import Carta from "../../../media/karta.png"
+import './contacts.css'
 export default function Contacts() {
     return (
         <div className="contacts">
