@@ -10,7 +10,7 @@ export default function Note() {
                     <div className="card">
                         <h2 className="zagolovok">Елена Мозговая</h2>
                         <p>
-                            <button className="button" onClick="func1()">Записаться на консультацию</button>
+                            <button className="button" onClick="Button1()">Записаться на консультацию</button>
                         </p>
                     </div>
                 </div>
@@ -18,7 +18,7 @@ export default function Note() {
                     <div className="card">
                         <h2 className="zagolovok">Владислав Гомон</h2>
                         <p>
-                            <button className="button" onClick="func2()">Записаться на прием</button>
+                            <button className="button" onClick="Button2()">Записаться на прием</button>
                         </p>
                     </div>
                 </div>

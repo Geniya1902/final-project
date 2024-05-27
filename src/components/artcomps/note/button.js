@@ -1,6 +1,8 @@
-function func1(){
-    alert ("@First_2610")
+function Button1(){
+    document.getElementsByClassName("button")
+    alert ("@First_2610");
 }
-function func2(){
-    alert ("@Vladislav5142")
+function Button2(){
+    document.getElementsByClassName("button")
+    alert ("@Vladislav5142");
 }
