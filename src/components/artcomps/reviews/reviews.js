@@ -9,7 +9,7 @@ import './reviews.css'
 export default function Reviews() {
     return (
         <div className="reviews">
-            <h1>Отзывы наших благодарных клиетов</h1>
+            <h1 className="rew">Отзывы наших благодарных клиетов</h1>
             <div className="row">
                 <div className="column">
                     <img src={Review1} alt="Отзыв клиента №1" />

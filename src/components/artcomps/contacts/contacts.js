@@ -4,7 +4,7 @@ import './contacts.css'
 export default function Contacts() {
     return (
         <div className="contacts">
-            <p>Наши контакты</p>
+            <h1 className="zag">Наши контакты</h1>
             <table border="black solid 1px">
                 <tr>
                     <td></td>
