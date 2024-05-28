@@ -12,24 +12,26 @@ export default function Reviews() {
             <h1 className="rew">Отзывы наших благодарных клиетов</h1>
             <div className="row">
                 <div className="column">
-                    <img src={Review1} alt="Отзыв клиента №1" />
-                    <br />
-                    <img src={Review2} alt="Отзыв клиента №2" />
-                    <br />
-                    <img src={Review4} alt="Отзыв клиента №4" />
-                    <br />
-                    <img src={Review6} alt="Отзыв клиента №6" />
+                    <img src={Review1} alt="Отзыв клиента №1"/>
+                    <br/>
+                    <img src={Review2} alt="Отзыв клиента №2"/>
+                    <br/>
+                    <img src={Review4} alt="Отзыв клиента №4"/>
+                    <br/>
+                    <img src={Review6} alt="Отзыв клиента №6"/>
                 </div>
                 <div>
-                    <img src={Review3} alt="Отзыв клиента №3" />
-                    <br />
-                    <img src={Review5} alt="Отзыв клиента №5" />
+                    <img src={Review3} alt="Отзыв клиента №3"/>
+                    <br/>
+                    <img src={Review5} alt="Отзыв клиента №5"/>
                 </div>
             </div>
-            <p className="text">Больше отзывов Вы можете посмотреть по ссылке в группе https://t.me/+e4aZ2vK3K8RiNmUy</p>
-            <br />
+            <p className="text">Больше отзывов Вы можете посмотреть по ссылке в группе</p>
+                <a href="#" className="fa fa-telegram">https://t.me/+e4aZ2vK3K8RiNmUy</a>
+            <br/>
             <p className="text">А также вы можете присоединиться к нашей группе в Telegram, гда мы рассказываем
-            много нового и интересного https://t.me/+fQBcho60fc8xMGMy</p>
+                много нового и интересного</p>
+                <a href="#" className="fa fa-telegram">https://t.me/+fQBcho60fc8xMGMy</a>
         </div>
-    );
+);
 }

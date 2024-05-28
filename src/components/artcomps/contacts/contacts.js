@@ -12,17 +12,17 @@ export default function Contacts() {
                     <td>Владислав Гомон</td>
                 </tr>
                 <tr>
-                    <td>Телефон</td>
+                    <td className="znak"><a href="#" className="fa fa-phone">Телефон</a></td>
                     <td>+7 (904) 441-87-09</td>
                     <td>+7 (928) 127-15-55</td>
                 </tr>
                 <tr>
-                    <td>Telegram</td>
+                    <td className="znak"><a href="#" className="fa fa-telegram">Telegram</a></td>
                     <td>@First_2610</td>
                     <td>@Vladislav5142</td>
                 </tr>
                 <tr>
-                    <td>E-mail</td>
+                    <td className="znak">E-mail</td>
                     <td>allegretta0207@gmail.com</td>
                     <td>meynkune@yandex.ru</td>
                 </tr>
