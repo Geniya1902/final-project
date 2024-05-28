@@ -1,6 +1,7 @@
 import Elena from '../../../media/elena.jpg'
 import Gomon from '../../../media/gomon.jpg'
 import './about.css'
+
 export default function About() {
     return (
       <div className="row">

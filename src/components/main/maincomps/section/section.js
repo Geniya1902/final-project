@@ -1,5 +1,6 @@
 import "./section.css"
 import {Link} from "react-router-dom";
+
 export function Section(){
     return(
         <div className="section">

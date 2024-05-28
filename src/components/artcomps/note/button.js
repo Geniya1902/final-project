@@ -1,8 +1,8 @@
+document.getElementsByClassName("button1").onClick=Button1;
 function Button1(){
-    document.getElementsByClassName("button");
-    alert ("@First_2610");
+    alert ('@First_2610');
 }
+document.getElementsByClassName("button2").onClick=Button2;
 function Button2(){
-    document.getElementsByClassName("button");
-    alert ("@Vladislav5142");
+    alert ('@Vladislav5142');
 }

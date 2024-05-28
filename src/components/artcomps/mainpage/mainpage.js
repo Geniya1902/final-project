@@ -1,5 +1,6 @@
 import OurTeam from '../../../media/our team.jpg'
 import "./mainpage.css"
+
 export default function Mainpage() {
     return (
         <div className="mainpage">

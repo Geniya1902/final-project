@@ -3,4 +3,6 @@
     width: 20vw;
     font-size: 1.5em;
     font-weight: bold;
+    position: fixed;
+    margin-right: 20vw;
 }

@@ -5,6 +5,7 @@ import Review4 from '../../../media/review4.png'
 import Review5 from '../../../media/review5.png'
 import Review6 from '../../../media/review6.png'
 import './reviews.css'
+
 export default function Reviews() {
     return (
         <div className="reviews">
