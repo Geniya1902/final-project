@@ -18,8 +18,8 @@ export default function Contacts() {
                 </tr>
                 <tr>
                     <td className="znak"><a href="#" className="fa fa-telegram">Telegram</a></td>
-                    <td>@First_2610</td>
-                    <td>@Vladislav5142</td>
+                    <td><a href="https://t.me/First_2610">@First_2610</a></td>
+                    <td><a href="https://t.me/Vladislav5142">@Vladislav5142</a></td>
                 </tr>
                 <tr>
                     <td className="znak">E-mail</td>

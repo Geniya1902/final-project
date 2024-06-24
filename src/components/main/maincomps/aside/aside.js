@@ -8,7 +8,7 @@ export function Aside(){
                 <br />
                 <a href="#" className="fa fa-youtube"></a>
                 <br />
-            <p>The Queen of Money (https://www.youtube.com
+            <p><a href="https://www.youtube.com/@kateman08">The Queen of Money</a> (https://www.youtube.com
                 /@kateman08)</p>
         </div>
 );
