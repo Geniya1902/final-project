@@ -26,14 +26,15 @@ export default function Reviews() {
                     <img src={Review5} alt="Отзыв клиента №5"/>
                 </div>
             </div>
-            <p className="text">Больше отзывов Вы можете посмотреть по <a href="https://t.me/+e4aZ2vK3K8RiNmUy">ссылке</a> в
+            <p className="text">Больше отзывов Вы можете посмотреть по ссылке в
                 группе</p>
-            <a href="#" className="fa fa-telegram">https://t.me/+e4aZ2vK3K8RiNmUy</a>
-            <br/>
-            <p className="text">А также вы можете присоединиться к нашей группе в <a href="https://t.me/+fQBcho60fc8xMGMy">Telegram</a>,
+            <a href="#" className="fa fa-telegram"><a href="https://t.me/+e4aZ2vK3K8RiNmUy">РАБОТА_С_НАМИ:Отзывы</a></a>
+                <br/>
+                <p className="text">А также вы можете присоединиться к нашей группе в Telegram,
                 гда мы рассказываем
                 много нового и интересного</p>
-                <a href="#" className="fa fa-telegram">https://t.me/+fQBcho60fc8xMGMy</a>
-        </div>
-);
+                <a href="#" className="fa fa-telegram"><a href="https://t.me/+fQBcho60fc8xMGMy">Жизнь_в_кайф</a></a>
+                </div>
+)
+    ;
 }
