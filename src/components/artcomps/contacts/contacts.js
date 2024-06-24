@@ -18,8 +18,8 @@ export default function Contacts() {
                 </tr>
                 <tr>
                     <td className="znak"><a href="#" className="fa fa-telegram">Telegram</a></td>
-                    <td><a href="https://t.me/First_2610">@First_2610</a></td>
-                    <td><a href="https://t.me/Vladislav5142">@Vladislav5142</a></td>
+                    <td><a href="https://t.me/First_2610" target="_blank">@First_2610</a></td>
+                    <td><a href="https://t.me/Vladislav5142" target="_blank">@Vladislav5142</a></td>
                 </tr>
                 <tr>
                     <td className="znak">E-mail</td>
@@ -28,8 +28,8 @@ export default function Contacts() {
                 </tr>
                 <tr>
                     <td>Другие варианты связи</td>
-                    <td>https://taplink.cc/elenamozgovaya/</td>
-                    <td>https://gomanvlad.taplink.ws/</td>
+                    <td><a href="https://taplink.cc/elenamozgovaya/" target="_blank">https://taplink.cc/elenamozgovaya/</a></td>
+                    <td><a href="https://gomanvlad.taplink.ws/" target="_blank">https://gomanvlad.taplink.ws/</a></td>
                 </tr>
             </table>
             <p>Мы в любое время готовы ответить на все интересующие Вас вопросы.</p>

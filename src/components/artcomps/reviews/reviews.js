@@ -28,12 +28,12 @@ export default function Reviews() {
             </div>
             <p className="text">Больше отзывов Вы можете посмотреть по ссылке в
                 группе</p>
-            <a href="#" className="fa fa-telegram"><a href="https://t.me/+e4aZ2vK3K8RiNmUy">РАБОТА_С_НАМИ:Отзывы</a></a>
+            <a href="#" className="fa fa-telegram"><a href="https://t.me/+e4aZ2vK3K8RiNmUy" target="_blank">РАБОТА_С_НАМИ:_Отзывы</a></a>
                 <br/>
                 <p className="text">А также вы можете присоединиться к нашей группе в Telegram,
                 гда мы рассказываем
                 много нового и интересного</p>
-                <a href="#" className="fa fa-telegram"><a href="https://t.me/+fQBcho60fc8xMGMy">Жизнь_в_кайф</a></a>
+                <a href="#" className="fa fa-telegram"><a href="https://t.me/+fQBcho60fc8xMGMy" target="_blank">Жизнь_в_кайф</a></a>
                 </div>
 )
     ;
